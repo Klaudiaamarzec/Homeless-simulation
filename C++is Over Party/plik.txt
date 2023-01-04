@@ -1,0 +1,14 @@
+0 Piwa 0 Pieniadze 0.02 Uzbierane puszki 1
+1 Piwa 0 Pieniadze 0.0 Uzbierane puszki 0
+0 Piwa 0 Pieniadze 2.17 Uzbierane puszki 7
+1 Piwa 8 Pieniadze 9.35 Uzbierane puszki 6
+0 Piwa 13 Pieniadze 7.24 Uzbierane puszki 4
+1 Piwa 0 Pieniadze 0.98 Uzbierane puszki 7
+0 Piwa 1 Pieniadze 8.57 Uzbierane puszki 5
+1 Piwa 0 Pieniadze 0.02 Uzbierane puszki 1
+0 Piwa 8 Pieniadze 9.07 Uzbierane puszki 1
+1 Piwa 0 Pieniadze 8.41 Uzbierane puszki 7
+0 Piwa 0 Pieniadze 0.41 Uzbierane puszki 4
+1 Piwa 0 Pieniadze 8.55 Uzbierane puszki 5
+0 Piwa 0 Pieniadze 0.08 Uzbierane puszki 2
+1 Piwa 0 Pieniadze 3.15 Uzbierane puszki 3
